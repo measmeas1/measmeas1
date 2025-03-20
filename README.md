@@ -5,16 +5,12 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=measmeas1&color=blue&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=measmeas1&color=green&style=flat-square" alt="Profile Views" />
+   <img src="https://api.countapi.xyz/hit/measmeas1/profileviews?label=Profile Views&style=flat-square" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=measmeas1.profileviews&left_color=blue&right_color=green" alt="Profile Views" />
-</p>
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F77A14&center=true&vCenter=true&width=435&lines=Backend+Developer;Java+%7C+Spring+%7C+Vue.js;Building+Awesome+Projects+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F77A14&center=true&vCenter=true&width=435&lines=Software+Development;Java+%7C+PHP+%7C+Vue.js;Building+Projects+🚀;Improved Learn!" />
 </p>
 
 ## 🌟 About Me
