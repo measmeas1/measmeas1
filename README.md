@@ -6,7 +6,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=measmeas1&color=green&style=flat-square" alt="Profile Views" />
-   <img src="https://api.countapi.xyz/hit/measmeas1/profileviews?label=Profile Views&style=flat-square" alt="Profile Views" />
 </p>
 
 <p align="center">
@@ -21,9 +20,10 @@
 
 ## 🚀 Tech Stack
 <p align="left">
-  <img src="https://img.shields.io/badge/Code-Php-aqua?style=flat&logo=php" />
+  <img src="https://img.shields.io/badge/Code-PHP-aqua?style=flat&logo=php" />
   <img src="https://img.shields.io/badge/Code-Node.js-green?style=flat&logo=node.js" />
   <img src="https://img.shields.io/badge/Frontend-Vue.js-41b883?style=flat&logo=vue.js" />
+  <img src="https://img.shields.io/badge/Flutter-aqua?style=flat&logo=flutter" />
   <img src="https://img.shields.io/badge/Database-MySQL-blue?style=flat&logo=mysql" />
 </p>
 
