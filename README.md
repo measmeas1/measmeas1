@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Mab Meas 👋</h1>
 
-<!--
-**measmeas1/measmeas1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🚀 Software Development Learner | 🏗 Backend Learner
+</p>
 
-Here are some ideas to get you started:
+## 🌟 About Me
+- 🔭 I’m currently working on **Content Management System**
+- 🌱 I’m learning **PHP, MySQL, HTML, CSS, JAVASCRIPT, BOOTSTAPE**
+- 💡 I love solving problems & building awesome apps
+- 📫 Reach me at: [mabmeas12@gmail.com](mailto:mabmeas12@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Code-Java-blue?style=flat&logo=java" />
+  <img src="https://img.shields.io/badge/Code-Python-aqua?style=flat&logo=php" />
+  <img src="https://img.shields.io/badge/Code-Node.js-green?style=flat&logo=node.js" />
+  <img src="https://img.shields.io/badge/Frontend-Vue.js-41b883?style=flat&logo=vue.js" />
+  <img src="https://img.shields.io/badge/Backend-Spring%20Boot-6DB33F?style=flat&logo=spring" />
+  <img src="https://img.shields.io/badge/Database-MySQL-blue?style=flat&logo=mysql" />
+</p>
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=measmeas1&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=measmeas1&theme=tokyonight" width="48%"/>
+</p>
+
+## 🎨 Latest Projects
+- 🚗 **Telegram Bot** *(Laravel)*
+- 🎙 **Speech-to-Text App** *(Vue.js & LocalStorage)*
+- 🎥 **YouTube Video Downloader** *(Vue.js & Python/PHP)*
+
+## 📫 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/mab-meas-89a8a3335/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
+  <a href="https://github.com/measmeas1" target="_blank"><img src="https://img.shields.io/badge/GitHub-000?style=flat&logo=github" /></a>
+</p>
