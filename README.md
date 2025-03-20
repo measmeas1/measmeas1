@@ -3,6 +3,11 @@
 <p align="center">
   🚀 Software Development Learner | 🏗 Backend Learner
 </p>
+![Profile Views](https://komarev.com/ghpvc/?username=measmeas1&color=blue&style=flat-square)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/measmeas1)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F77A14&center=true&vCenter=true&width=435&lines=Backend+Developer;Java+%7C+Spring+%7C+Vue.js;Building+Awesome+Projects+🚀" />
+</p>
 
 ## 🌟 About Me
 - 🔭 I’m currently working on **Content Management System**
@@ -35,4 +40,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/mab-meas-89a8a3335/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
   <a href="https://github.com/measmeas1" target="_blank"><img src="https://img.shields.io/badge/GitHub-000?style=flat&logo=github" /></a>
+</p>
+<p align="center">
+  <img src="https://github.com/measmeas1/measmeas1/blob/main/banner.gif" />
 </p>
