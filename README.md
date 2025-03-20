@@ -5,11 +5,13 @@
 </p>
 
 <p align="center">
-![Profile Views](https://komarev.com/ghpvc/?username=measmeas1&color=blue&style=flat-square)
+  <img src="https://komarev.com/ghpvc/?username=measmeas1&color=blue&style=flat-square" alt="Profile Views" />
 </p>
+
 <p align="center">
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/measmeas1)
+  <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/measmeas1" alt="Hits" />
 </p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F77A14&center=true&vCenter=true&width=435&lines=Backend+Developer;Java+%7C+Spring+%7C+Vue.js;Building+Awesome+Projects+🚀" />
 </p>
