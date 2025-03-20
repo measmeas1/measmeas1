@@ -9,8 +9,9 @@
 </p>
 
 <p align="center">
-  <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/measmeas1" alt="Hits" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=measmeas1.profileviews&left_color=blue&right_color=green" alt="Profile Views" />
 </p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F77A14&center=true&vCenter=true&width=435&lines=Backend+Developer;Java+%7C+Spring+%7C+Vue.js;Building+Awesome+Projects+🚀" />
@@ -24,18 +25,16 @@
 
 ## 🚀 Tech Stack
 <p align="left">
-  <img src="https://img.shields.io/badge/Code-Java-blue?style=flat&logo=java" />
-  <img src="https://img.shields.io/badge/Code-Python-aqua?style=flat&logo=php" />
+  <img src="https://img.shields.io/badge/Code-Php-aqua?style=flat&logo=php" />
   <img src="https://img.shields.io/badge/Code-Node.js-green?style=flat&logo=node.js" />
   <img src="https://img.shields.io/badge/Frontend-Vue.js-41b883?style=flat&logo=vue.js" />
-  <img src="https://img.shields.io/badge/Backend-Spring%20Boot-6DB33F?style=flat&logo=spring" />
   <img src="https://img.shields.io/badge/Database-MySQL-blue?style=flat&logo=mysql" />
 </p>
 
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=measmeas1&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=measmeas1&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=measmeas1&layout=compact&theme=tokyonight" width="48%"/>
 </p>
 
 ## 🎨 Latest Projects
