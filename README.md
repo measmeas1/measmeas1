@@ -55,8 +55,8 @@ My primary focus is on the specialized tools used in my internship, backed by a 
 
 | Project                              | Description                                                  | Tech Stack                          | Status           |
 |--------------------------------------|--------------------------------------------------------------|-------------------------------------|------------------|
-| **Enterprise Web Platform (Work)**   | Build system for Japanese company                            | Nuxt 3 • NestJS • MySQL • Docker    | In Production ✅ |
-| **Shop app**                         | Mobile + web admin panel (Mobile Development submit)         | Flutter • Laravel • MySQL           | Active Dev       |
+| **Enterprise Web Platform (Work)**   | Build system for Japanese company                            | Nuxt 3 • NestJS • MySQL • Docker    | In Production    |
+| **Shop app**                         | Mobile + web admin panel (Mobile Development subject)        | Flutter • Laravel • MySQL           | Active Dev       |
 | **Custom Content Management System** | Full-featured CMS with roles & media management              | PHP • HTML • MySQL • Tailwind       | Completed        |
 
 *More projects coming soon as I open-source parts of my work!*
