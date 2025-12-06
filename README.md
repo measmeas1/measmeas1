@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Mab Meas 👋</h1>
 
 <p align="center">
-  🚀 **Full Stack Developer Intern** | Nuxt.js & NestJS Specialist
+  <strong>Full-Stack Developer Intern at a Japanese company</strong> • Specializing in <strong>Nuxt 3 + NestJS</strong> • Final-year Software Development student
 </p>
 
 <p align="center">
@@ -17,10 +17,10 @@
 ## 🌟 About Me
 - 💼 I am currently interning as a **Full Stack Developer**, specializing in modern JavaScript/TypeScript frameworks.
 - 🎓 I am in my **final year of Software Development** studies.
-- 🛠 **Key Internship Focus:** Building scalable applications using **Nuxt.js** (Frontend) and **NestJS** (Backend).
-- 🌱 I am experienced in Laravel, Flutter, Vue/Nuxt, Java, and PHP CMS development.
+- 🔥 Daily driver stack: **Nuxt 3 • NestJS • TypeScript • MySQL • Tailwind**
+- 🌱 I am experienced in Laravel, Flutter, Vue/Nuxt and PHP CMS development.
 - 💡 I thrive on solving complex problems and delivering high-quality, scalable code in a professional environment.
-- 📫 Reach me at: [mabmeas12@gmail.com](mailto:mabmeas12@gmail.com)
+- 📫 Reach me at: [mabmeas13@gmail.com](mailto:mabmeas13@gmail.com)
 
 ---
 
@@ -34,45 +34,49 @@ My primary focus is on the specialized tools used in my internship, backed by a 
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
 </p>
 
 ### **Academic & Other Expertise**
 <p align="left">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
 </p>
+
+---
 
 ---
 
 ## 🌟 Featured Projects
 
-### 💼 Current Internship Project (\[Optional: Project Name])
+| Project                              | Description                                                  | Tech Stack                          | Status           |
+|--------------------------------------|--------------------------------------------------------------|-------------------------------------|------------------|
+| **Enterprise Web Platform (Work)**   | Build system for Japanese company                            | Nuxt 3 • NestJS • MySQL • Docker    | In Production ✅ |
+| **Shop app**                         | Mobile + web admin panel (Mobile Development submit)         | Flutter • Laravel • MySQL           | Active Dev       |
+| **Custom Content Management System** | Full-featured CMS with roles & media management              | PHP • HTML • MySQL • Tailwind       | Completed        |
+
+*More projects coming soon as I open-source parts of my work!*
+
+---
+
+### 💼 Current Internship Project
 * **Goal:** Contributing to a live application as part of my Full Stack internship.
-* **Stack:** **Nuxt.js** (Frontend), **NestJS** (Backend), \[Optional: Database].
+* **Stack:** **Nuxt.js** (Frontend), **NestJS** (Backend).
 * **Focus:** Real-world development, code collaboration, and following professional development workflows.
 
-### 📱 Final Year Mobile Development Subject Project
-* **Goal:** Building a fully functional mobile application for my final year subject.
-* **Stack:** **Flutter** (Mobile App), **Laravel** (Backend API), **PostgreSQL** (Database).
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=measmeas1&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=measmeas1&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
-
----
+### 📱 Final Year Project
+* **Loading...**
 
 ## 📫 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/mab-meas-89a8a3335/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:mabmeas12@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:mabmeas13@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/measmeas1" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" /></a>
+  <a href="https://mmeasportfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-20232A?style=flat&logo=netlify&logoColor=00C7B7" /></a>
 </p>
 
 <p align="center">
